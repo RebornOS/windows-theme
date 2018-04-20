@@ -1,0 +1,28 @@
+[org.cinnamon.desktop.wm.preferences]
+theme = 'Windows-10'
+
+[org.cinnamon.theme]
+name = 'Windows-10'
+
+[org.cinnamon.desktop.interface]
+gtk-theme = 'Windows-10'
+icon-theme = 'Windows-10-Icons'
+
+[org.cinnamon]
+alttab-switcher-style = 'coverflow'
+hotcorner-layout = ['expo:true:50', 'expo:false:50', 'scale:false:0', 'desktop:false:0']
+
+##enabled-applets = ['panel1:right:0:systray@cinnamon.org:0', 'panel1:center:0:calendar@cinnamon.org:12', 'panel1:left:1:slingshot@jfarthing84:14', 'panel1:right:3:user@cinnamon.org:15', 'panel1:right:1:sound@cinnamon.org:21', 'panel1:right:2:power@cinnamon.org:22']
+
+panels-height = ['1:25']
+show-media-keys-osd = 'medium'
+workspace-osd-duration = 400
+workspace-osd-x = 50
+workspace-osd-y = 50
+desktop-effects-maximize-effect = 'scale'
+desktop-effects-maximize-time = 200
+desktop-effects-unmaximize-effect = 'scale'
+desktop-effects-unmaximize-time = 200
+
+[org.cinnamon.desktop.background]
+picture-uri = 'file:///usr/share/backgrounds/windows-10.jpg'
