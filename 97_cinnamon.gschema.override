@@ -12,9 +12,8 @@ icon-theme = 'Windows-10-Icons'
 alttab-switcher-style = 'coverflow'
 hotcorner-layout = ['expo:true:50', 'expo:false:50', 'scale:false:0', 'desktop:false:0']
 
-##enabled-applets = ['panel1:right:0:systray@cinnamon.org:0', 'panel1:center:0:calendar@cinnamon.org:12', 'panel1:left:1:slingshot@jfarthing84:14', 'panel1:right:3:user@cinnamon.org:15', 'panel1:right:1:sound@cinnamon.org:21', 'panel1:right:2:power@cinnamon.org:22']
+org.cinnamon enabled-applets ['panel1:right:2:removable-drives@cinnamon.org:3', 'panel1:right:3:keyboard@cinnamon.org:4', 'panel1:right:6:systray@cinnamon.org:7', 'panel1:right:7:power@cinnamon.org:8', 'panel1:right:8:network@cinnamon.org:6', 'panel1:right:9:sound@cinnamon.org:9', 'panel1:right:10:calendar@cinnamon.org:10', 'panel1:right:11:settings@cinnamon.org:11', 'panel1:left:0:CinnVIIStarkMenu@NikoKrause:12', 'panel1:left:1:IcingTaskManager@json:13']
 
-panels-height = ['1:25']
 show-media-keys-osd = 'medium'
 workspace-osd-duration = 400
 workspace-osd-x = 50
